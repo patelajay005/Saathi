@@ -138,7 +138,7 @@ NODE_ENV=development
 
 # Database - Choose one:
 # Local MongoDB:
-MONGODB_URI=mongodb://localhost:27017/saathi
+MONGODB_URI=mongodb://localhost:27017/{databasename}
 # OR MongoDB Atlas:
 MONGODB_URI=mongodb+srv://username:password@cluster.xxxxx.mongodb.net/wellness_coach
 
